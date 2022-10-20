@@ -1,0 +1,18 @@
+{ 
+  "userlogins": 
+  [ 
+  { "username":"Admin",
+    "password":"admin123"
+  }
+  ,
+  
+  { "username":"Admin_1",
+    "password":"Admin_1"
+  },
+  
+  { "username":"Admin_2",
+    "password":"Admin_2"
+  }
+  
+  ]
+}
